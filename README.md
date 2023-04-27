@@ -1,6 +1,6 @@
 # Cafe Website
 
-## Coffee and Desserts
+### Coffee and Desserts
 
 
 ### HTML , CSS and JavaScript were used in this project.
