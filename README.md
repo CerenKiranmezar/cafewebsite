@@ -5,5 +5,5 @@
 
 ### HTML , CSS and JavaScript were used in this project.
 
-###Screen
+####Screen
 ![](screen.gif)
